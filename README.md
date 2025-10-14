@@ -1,4 +1,4 @@
-# Sayi Tahmin Oyunu-HTML-CSS-JS
+# Sayı Tahmin Oyunu-HTML-CSS-JS
 HTML, CSS ve JS ile yapılmış sayı tahmin oyunu.
 Kullanıcı aklından tuttuğu bir sayıyı tahmin etmeye çalışır. Her yanlış tahminde canlar azalır ve 3 hakkın sonunda doğru cevap gösterilir. Oyuncu tekrar oynayabilir.  
 
