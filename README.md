@@ -7,7 +7,7 @@ Kullanıcı aklından tuttuğu bir sayıyı tahmin etmeye çalışır. Her yanl�
 - Kullanıcı tahminlerini kontrol etme
 - 3 can hakkı sistemi (kalp ikonları ❤️)
 - Doğru tahmin veya hakkın bitmesi durumunda mesaj gösterme
-- Tekrar oynama butonu ile oyunu sıfırlama
+- Oyun bittiğinde görünen “Tekrar Oyna” butonu ile yeni oyun başlatma 
 - Basit ve responsive tasarım
 
 ## Teknolojiler
