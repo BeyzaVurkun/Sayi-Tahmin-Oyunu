@@ -11,8 +11,8 @@ Kullanıcı aklından tuttuğu bir sayıyı tahmin etmeye çalışır. Her yanl�
 - Basit ve responsive tasarım
 
 ## Teknolojiler
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - Bootstrap 5
 - Font Awesome (kalp ikonları için)
